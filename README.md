@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sarvesh khandelwal
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning hacking
+- I,m Data Scientist
 - 📫 How to reach me ...
 instagram = sarvesh.khandelwal_
 facebook = sarvesh khandelwal
